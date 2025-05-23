@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.1.0",
   "type": "module",
-  "homepage": "https://KarapetSoghomonyan.github.io/currency-converter",
+  "homepage": "https://KarapetSoghomonyan.github.io/reactquery_app",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist -f",
